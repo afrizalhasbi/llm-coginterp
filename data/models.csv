@@ -1255,7 +1255,6 @@ llama-3-1-70b,llama-3-1-70b,llama,,,,,,,open
 gemini-2.0-flash-lite,Gemini 2.0 Flash Lite,gemini,,,,,,,closed
 mistral-large-instruct,Mistral-large-Instruct,mistral,,,,,,,open
 gpt-4o-(2024-11-20),GPT-4o (2024-11-20),gpt,,,,,,,closed
-mixtral-8x7b-instruct-v0.1,Mixtral-8x7B-Instruct-v0.1,mixtral,,,,,,,open
 gemini-1.5-pro,gemini-1.5-pro,gemini,,,,,,,closed
 gpt-4o-mini,GPT-4o Mini,gpt,,,,,,,closed
 qwen-plus,Qwen Plus,qwen,,,,,,,open
@@ -1263,7 +1262,6 @@ claude-3.5-sonnet-v2,Claude 3.5 Sonnet v2,claude,,,,,,,closed
 deepseek-chat,deepseek-chat,deepseek,,,,,,,closed
 claude-3.7-sonnet-thinking,Claude 3.7 Sonnet Thinking,claude,,,,,,,closed
 claude-3-haiku,Claude-3-Haiku,claude,,,,,,,closed
-gpt-4o-mini,gpt-4o-mini,gpt,,,,,,,closed
 llama-4-scout,Llama 4 Scout,llama,,,,,,,open
 gemini-2.0-flash-(exp),Gemini 2.0 Flash (exp),gemini,,,,,,,closed
 llama-3.3-70b,Llama-3.3-70B,llama,,,,,,,open
@@ -1283,3 +1281,18 @@ grok-3,Grok-3,Grok,xAI,Unknown,Proprietary,,,,closed
 olmo-2-1124-7b-instruct,OLMo-2-1124-7B-Instruct,OLMo-2,AllenAI,7B,Dense,,,,open-weights
 olmo-2-1124-13b-instruct,OLMo-2-1124-13B-Instruct,OLMo-2,AllenAI,13B,Dense,,,,open-weights
 claude-1-3,Claude-v1.3,Claude1,Anthropic,Unknown,Dense,,,,closed
+zephyr-7b-beta,Zephyr 7B Beta,Zephyr,,,,,,,open
+gemma-1-1-7b-it,Gemma 1.1 7B IT,Gemma 1,,,,,,,open
+gpt-3.5-turbo-1106,GPT-3.5 Turbo 1106,GPT-3.5,,,,,,,closed
+gpt-4-0613,GPT-4 0613,GPT-4,,,,,,,closed
+llama-3.1-70b-instruct,Llama 3.1 70B Instruct,Llama-3.1,,,,,,,open
+qwen2-7b-instruct,Qwen 2 7B Instruct,Qwen 2,,,,,,,open
+mistral-7b-instruct-v0.2,Mistral 7B Instruct v0.2,Mistral,,,,,,,open
+gpt-4,GPT-4,GPT-4,,,,,,,closed
+phi-3-5-mini-instruct,Phi-3.5 Mini Instruct,Phi-3,,,,,,,open
+gemma-2-2b-it,Gemma 2 2B IT,Gemma 2,,,,,,,open
+phi-3-medium-4k-instruct,Phi-3 Medium 4K Instruct,Phi-3,,,,,,,open
+phi-3-5-moe-instruct,Phi-3.5 MoE Instruct,Phi-3,,,,,,,open
+gemma-2-9b-it,Gemma 2 9B IT,Gemma 2,,,,,,,open
+qwen2-72b-instruct,Qwen 2 72B Instruct,Qwen 2,,,,,,,open
+palm-2-bison,PaLM 2 Bison,PaLM 2,,,,,,,closed
