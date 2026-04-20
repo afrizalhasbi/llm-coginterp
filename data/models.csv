@@ -1277,3 +1277,8 @@ gpt-4.1-mini,GPT-4.1 Mini,gpt,,,,,,,closed
 deepseek-v3,DeepSeek-V3,deepseek,,,,,,,closed
 deepseek-v3-(0324),DeepSeek-V3 (0324),deepseek,,,,,,,closed
 gpt-4o-(2024-08-06),GPT-4o (2024-08-06),gpt,,,,,,,closed
+gemini-2-5-pro-preview-03-25,Gemini 2.5 Pro,Gemini-2,Google DeepMind,Unknown,Proprietary,,,,closed
+deepseek-r1-zero,DeepSeek-R1-Zero,DeepSeek-V3,DeepSeek,671B,MoE,,,,open-weights
+grok-3,Grok-3,Grok,xAI,Unknown,Proprietary,,,,closed
+olmo-2-1124-7b-instruct,OLMo-2-1124-7B-Instruct,OLMo-2,AllenAI,7B,Dense,,,,open-weights
+olmo-2-1124-13b-instruct,OLMo-2-1124-13B-Instruct,OLMo-2,AllenAI,13B,Dense,,,,open-weights
