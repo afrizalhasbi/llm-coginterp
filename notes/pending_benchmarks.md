@@ -49,5 +49,4 @@
 **DAN** (2023)
 
 ## 💻 Coding and debugging
-~~DebugBench (2024) — https://arxiv.org/abs/2401.04621~~
 **CRITIQUE** (2024)
