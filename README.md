@@ -6,9 +6,9 @@ A curated, verified dataset of LLM benchmark evaluations across diverse cognitiv
 
 | Table | Rows | Description |
 |-------|------|-------------|
-| `benchmarks.csv` | 200 | Benchmark metadata: name, venue, category, source URLs |
-| `models.csv` | 1,125 | Model metadata: family, developer, size, type |
-| `results.csv` | 8,126 | Evaluation results: scores, metrics, setup parameters |
+| `benchmarks.csv` | 215 | Benchmark metadata: name, venue, category, source URLs |
+| `models.csv` | 1,127 | Model metadata: family, developer, size, type |
+| `results.csv` | 8,264 | Evaluation results: scores, metrics, setup parameters |
 
 ## Data Schema
 
