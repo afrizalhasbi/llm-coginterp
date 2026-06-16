@@ -49,6 +49,11 @@ We enforce strict criteria for which models are tracked in this dataset. The cor
 - Benchmarks with zero result rows: **0**.
 - Always run `verify_data.py` after making changes to the 3 main data: `results.csv`, `benchmarks.csv`, `results.csv`
 
+### Multiple Scores per Model-Benchmark Pair
+- If a model has more than 1 score for the same benchmark (due to different evaluation setup, different provider/evaluator running the benchmark, different prompting strategy, etc.), each score is kept as a **separate row** in `results.csv` — never averaged or collapsed.
+- Rows are distinguished by the `setup` field (describing the evaluation configuration) and `source_url` (which evaluator/provider published the result).
+- Example: GPT-4 evaluated on MMLU by HELM (one row) and by the original MMLU authors (another row) → two separate rows with different `setup` and `source_url`.
+
 ---
 
 ## Inference Environment Collection
